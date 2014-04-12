@@ -7,13 +7,18 @@ div{
 	background-image: url(img/face00.jpg);	
 }
 #f1{
-	
+	top:0px;
+	left:0px;
 	background-image: url(img/face01.jpg);	
 }
 #f2{
+	top:0px;
+	left:200px;
 	background-image: url(img/face02.jpg);	
 }
 #f3{
+	top:0px;
+	left:400px;
 	background-image: url(img/face03.jpg);	
 }
 #f4{
