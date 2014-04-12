@@ -4,21 +4,21 @@ div{
 .f0{
 	background-image: url(img/face00.jpg);	
 }
-.f1{
+#f1{
 	background-image: url(img/face01.jpg);	
 }
-.f2{
+#f2{
 	background-image: url(img/face02.jpg);	
 }
-.f3{
+#f3{
 	background-image: url(img/face03.jpg);	
 }
-.f4{
+#f4{
 	background-image: url(img/face04.jpg);	
 }
-.f5{
+#f5{
 	background-image: url(img/face05.jpg);	
 }
-.f6{
+#f6{
 	background-image: url(img/face06.jpg);	
 }
