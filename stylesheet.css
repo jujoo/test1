@@ -1,10 +1,13 @@
 div{
 	position:absolute;
+	width:200px;
+	height:200px;
 }
 .f0{
 	background-image: url(img/face00.jpg);	
 }
 #f1{
+	
 	background-image: url(img/face01.jpg);	
 }
 #f2{
