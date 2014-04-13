@@ -6,6 +6,56 @@ div{
 .f0{
 	background-image: url(img/face00.jpg);	
 }
+#block1{
+	top:0px;
+	left:0px;
+	
+}
+#block2{
+	top:0px;
+	left:200px;
+}
+#block3{
+	top:0px;
+	left:400px;
+}
+#block4{
+	top:0px;
+	left:600px;
+}
+#block5{
+	top:200px;
+	left:0px;
+}
+#block6{
+	top:200px;
+	left:200px;
+}
+#block7{
+	top:200px;
+	left:400px;
+}
+#block8{
+	top:200px;
+	left:600px;
+}
+#block9{
+	top:400px;
+	left:0px;
+}
+#block10{
+	top:400px;
+	left:200px;
+}
+#block11{
+	top:400px;
+	left:400px;
+}
+#block12{
+	top:400px;
+	left:600px;
+}
+
 #f1{
 	top:0px;
 	left:0px;
@@ -22,11 +72,47 @@ div{
 	background-image: url(img/face03.jpg);	
 }
 #f4{
+	top:0px;
+	left:600px;
 	background-image: url(img/face04.jpg);	
 }
 #f5{
+	top:200px;
+	left:0px;
 	background-image: url(img/face05.jpg);	
 }
 #f6{
+	top:200px;
+	left:200px;
+	background-image: url(img/face06.jpg);	
+}
+#f7{
+	top:200px;
+	left:400px;
+	background-image: url(img/face01.jpg);	
+}
+#f8{
+	top:200px;
+	left:600px;
+	background-image: url(img/face02.jpg);	
+}
+#f9{
+	top:400px;
+	left:0px;
+	background-image: url(img/face03.jpg);	
+}
+#f10{
+	top:400px;
+	left:200px;
+	background-image: url(img/face04.jpg);	
+}
+#f11{
+	top:400px;
+	left:400px;
+	background-image: url(img/face05.jpg);	
+}
+#f12{
+	top:400px;
+	left:600px;
 	background-image: url(img/face06.jpg);	
 }

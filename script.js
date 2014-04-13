@@ -1,1 +1,14 @@
-var 
+$(document).ready(function(){
+	$('#block1').click(function(){
+		$(this).toggleClass('f1');
+		$('#block1').fadeOut(100);
+	});
+	$('#block2').click(function(){
+		$(this).toggleClass('f2');
+		$('#block2').fadeOut(100);
+	});
+	$('#block3').click(function(){
+		$(this).toggleClass('f3');
+		$('#block3').fadeOut(100);
+	});
+});
