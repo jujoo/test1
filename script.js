@@ -1,50 +1,50 @@
 $(document).ready(function(){
-	$('#block1').click(function(){
-		$(this).toggleClass('f1');
-		$('#block1').fadeOut(100);
+	$('#f1').click(function(){
+		$(this).toggleClass('back1');
+//		$('#block1').fadeOut(100);
 	});
-	$('#block2').click(function(){
-		$(this).toggleClass('f2');
-		$('#block2').fadeOut(100);
+	$('#f2').click(function(){
+		$(this).toggleClass('back2');
+//		$('#block2').fadeOut(100);
 	});
-	$('#block3').click(function(){
-		$(this).toggleClass('f3');
-		$('#block3').fadeOut(100);
+	$('#f3').click(function(){
+		$(this).toggleClass('back3');
+//		$('#block3').fadeOut(100);
 	});
-	$('#block4').click(function(){
-		$(this).toggleClass('f4');
-		$('#block4').fadeOut(100);
+	$('#f4').click(function(){
+		$(this).toggleClass('back4');
+//		$('#block4').fadeOut(100);
 	});
-	$('#block5').click(function(){
-		$(this).toggleClass('f5');
-		$('#block5').fadeOut(100);
+	$('#f5').click(function(){
+		$(this).toggleClass('back5');
+//		$('#block5').fadeOut(100);
 	});
-	$('#block6').click(function(){
-		$(this).toggleClass('f6');
-		$('#block6').fadeOut(100);
+	$('#f6').click(function(){
+		$(this).toggleClass('back6');
+//		$('#block6').fadeOut(100);
 	});
-	$('#block7').click(function(){
-		$(this).toggleClass('f7');
-		$('#block7').fadeOut(100);
+	$('#f7').click(function(){
+		$(this).toggleClass('back1');
+//		$('#block7').fadeOut(100);
 	});
-	$('#block8').click(function(){
-		$(this).toggleClass('f8');
-		$('#block8').fadeOut(100);
+	$('#f8').click(function(){
+		$(this).toggleClass('back2');
+//		$('#block8').fadeOut(100);
 	});
-	$('#block9').click(function(){
-		$(this).toggleClass('f9');
-		$('#block9').fadeOut(100);
+	$('#f9').click(function(){
+		$(this).toggleClass('back3');
+//		$('#block9').fadeOut(100);
 	});
-	$('#block10').click(function(){
-		$(this).toggleClass('f10');
-		$('#block10').fadeOut(100);
+	$('#f10').click(function(){
+		$(this).toggleClass('back4');
+//		$('#block10').fadeOut(100);
 	});
-	$('#block11').click(function(){
-		$(this).toggleClass('f11');
-		$('#block11').fadeOut(100);
+	$('#f11').click(function(){
+		$(this).toggleClass('back5');
+//		$('#block11').fadeOut(100);
 	});
-	$('#block12').click(function(){
-		$(this).toggleClass('f12');
-		$('#block12').fadeOut(100);
+	$('#f12').click(function(){
+		$(this).toggleClass('back6');
+//		$('#block12').fadeOut(100);
 	});
 });
